@@ -1,4 +1,6 @@
 node_modules
+.agents
+.neon
 coverage/
 logs/
 drizzle/
